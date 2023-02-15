@@ -1,0 +1,31 @@
+window:
+  padding:
+    x: 8
+    y: 6
+  opacity: 0.5
+
+
+font:
+  #normal:
+    #family: Fira Code
+  #bold:
+   # family: Fira Code
+  #italic:
+    #family: Fira Code
+  size: 12.0
+
+colors:
+  primary:
+    background: '#03011a'
+    foreground: '#56fc03'
+  cursor:
+    cursor: '0xFFCC00'
+  normal:
+    black:      '0x717CB4'
+    red:        '0xF07178'
+    green:      '0xC3E88D'
+    yellow:     '0xFFCB6B'
+    blue:       '0x82AAFF'
+    magenta:    '0xFF9CAC'
+    cyan:       '0x89DDFF'
+    white:      '0xFFFFFF'
